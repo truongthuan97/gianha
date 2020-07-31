@@ -8,7 +8,7 @@
           <img src="dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
-          <a href="#" class="d-block">Alexander Pierce</a>
+          <a href="#" class="d-block">Admin</a>
         </div>
       </div>
 
@@ -35,14 +35,14 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="pages/forms/general.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
+                <a href="#" class="nav-link">
+                  <i class="fa fa-angle-right nav-icon"></i>
                   <p>Submenu 1</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="pages/forms/advanced.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
+                <a href="#" class="nav-link">
+                  <i class="fa fa-angle-right nav-icon"></i>
                   <p>Submenu 2</p>
                 </a>
               </li>
